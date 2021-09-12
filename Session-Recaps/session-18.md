@@ -8,7 +8,6 @@ _Saturday Sep 4, 2021_
 
 Finished having breakfast with the burgermeister, getting ready to set out
 
-
 ### Beginning Tasks
 
 Set out to hit Baba yasaga, turn over the crystal in vallaki
@@ -48,10 +47,7 @@ Antillian gets reincarnation! New race? Roll a d100: 8
 
 Hill dwarf!
 
-Get bonus to wisdom. Racial bonuses change. Go into dnd beyond change race, see what changes.
-
-Pick one magical item and lose it....
-
+Get bonus to wisdom. Racial bonuses change. Go into dnd beyond change race, see what changes. Rex will help between sessions.
 
 ### Ending Tasks
 

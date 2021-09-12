@@ -6,12 +6,14 @@
       {
         "id": "f3ca8929c85b6515",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session-Recaps/session-18.md",
+            "file": "Session-Recaps/session-19.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -52,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e4f5ec5f0f566249",
@@ -68,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session-Recaps/session-18.md",
+                "file": "Session-Recaps/session-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session-Recaps/session-18.md",
+                "file": "Session-Recaps/session-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +114,15 @@
   },
   "active": "f3ca8929c85b6515",
   "lastOpenFiles": [
-    "Session-Recaps/session-18.md",
+    "Session-Recaps/session-19.md",
     "AntilianConditions.md",
+    "Session-Recaps/session-18.md",
     "Session-Recaps/session-17.md",
-    "session-18.md",
     "Untitled.md",
+    "session-18.md",
     "Session-Recaps/session-16.md",
     "Session-Recaps/session-15.md",
     "Session-Recaps/session-10.md",
-    "Ledger/AntilianLedger.md",
-    "Session-Recaps/session-12.md"
+    "Ledger/AntilianLedger.md"
   ]
 }
