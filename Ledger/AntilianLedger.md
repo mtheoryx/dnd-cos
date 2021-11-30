@@ -53,3 +53,11 @@ Ending ledger
 | Copper | Silver | Gold | Platinum |
 | --- | --- | --- | --- |
 | 12.5 | 22 | 90 | 149 |
+
+## Session 19 Ledger
+
+Starting ledger
+
+| Copper | Silver | Gold | Platinum |
+| --- | --- | --- | --- |
+| 12.5 | 22 | 90 | 149 |

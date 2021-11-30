@@ -7,12 +7,20 @@ Conditions due to Dark Gifts, failed saving throws, magical effects, etc.
 - [x] Disadvantage on Cons saves (when out of water)
 - [x] 11 hours - Disadvantage on Checks
 
+- [x] I'm taking kingmaker. Take it.
+Charisma +4. Max 22. Gain flaw, wont take no for an answer.
+
+`This dark gift increases the beneficiary’s Charisma by 4, up to a maximum of 22.
+
+The beneficiary of this dark gift gains the following flaw: “I won’t take no for an answer.”
+`
+
 ## Permanent Conditions
 - [ ] Is a dwarf (hill dwarf) now (session 18 death via Baba Lasaga)
 
 ## Attuned Items
 
-1. Cloak of Protection
+1. Blood Spear
 2. Braces of Defense
 3. Slippers of spider climbing
 

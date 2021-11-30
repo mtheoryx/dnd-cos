@@ -66,7 +66,7 @@ Some are the same?
 
 3 new cards:
 
-- Xzayvian: 8 of stars, "A woman hangs above a roaring fire, find here and you will find the treasure"
+- Xzayvian: 8 of stars, "A woman hangs above a roaring fire, find her and you will find the treasure"
 - Julianna: 5 of swords, Myrmidon "Look for a den of wolves in the hills overlooking a mountain lake. The treasure belongs to Mother Night."
 - Fenric Kells: 1 of swords, Avenger "This card tells of history, knowledge of ancient will help you better understand your enemy, the treasure lies in a dragon's house, hands once clean, now corrupted"
 
@@ -78,7 +78,6 @@ Back to Antilian:
 I recover in old man's home. But I volunteer at the church. A mysterious hunchback also voluneering. He'd probably ignore me, but I take a closer look at him, just to see anything.
 
 I notice some familiar clothing, but can't make it out.
-
 
 Retraining body via sparring and manual labor. I regain use of my monk stuff. Friends are on the way towards me.
 
